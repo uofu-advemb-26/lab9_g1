@@ -20,7 +20,7 @@ If there are two trains present, then the arms will raise after the first train 
 | 12     | 1         | 1        | 0                  | 0                  |             14  |              13 |        21     |         21    |     0   |               |
 | 13     | 1         | 1        | 0                  | 1                  |              15 |               13|         21    |         4    |     0   |               |
 | 14     | 1         | 1        | 1                  | 0                  |               14|               15|         4    |         21    |       0 |               |
-| 15     | 1         | 1        | 1                  | 1                  |               15|              15 |          4   |        4     |     0   |               |
+| 15     | 1         | 1        | 1                  | 1                  |               15|              15 |          13   |        14     |     0   |               |
 
 | number | invariant |
 |--------|-----------|
